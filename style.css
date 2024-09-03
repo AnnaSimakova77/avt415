@@ -1,0 +1,32 @@
+h1 {
+	font-size: 60px; 
+	line-height: 10px;
+	color: deeppink;
+	text-align: center;
+	font-family: 'Potta One', regular;
+
+}
+
+h2 {
+	font-size: 35px; 
+	line-height: 45px;
+	color: royalblue;
+	text-align: center;
+	font-family: 'Mate SC', serif;;
+}
+
+h3 {
+	font-size: 28px; 
+	line-height: 30px;
+	color: darkgreen;
+	text-align: left;
+	font-family: 'Mate SC', serif;;
+}
+
+body {
+    font-size: 21px;
+    color: mediumvioletred;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-family: 'Mate SC', serif;;
+}
