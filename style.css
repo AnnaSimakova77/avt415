@@ -1,3 +1,26 @@
+a {
+  box-shadow: inset 0 0 0 0 blue;
+  color: floralwhite;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+a:hover {
+  color: deeppink;
+  box-shadow: inset 600px -25 0 0 blue;
+  text-decoration: underline;
+}
+
+/* Presentational styles */
+a {
+  color: blue;
+  font-family: 'Mate SC', serif;;
+  font-size: 23px;
+  font-weight: 50;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
 h1 {
 	font-size: 60px; 
 	line-height: 10px;
@@ -10,17 +33,18 @@ h1 {
 h2 {
 	font-size: 35px; 
 	line-height: 45px;
-	color: royalblue;
+	color: rebeccapurple;
 	text-align: center;
 	font-family: 'Mate SC', serif;;
+	text-decoration: none;
 }
 
 h3 {
-	font-size: 28px; 
+	font-size: 31px; 
 	line-height: 30px;
-	color: darkgreen;
+	color: navy;
 	text-align: left;
-	font-family: 'Mate SC', serif;;
+	font-family: 'Monoton', sans-serif;
 }
 
 body {
