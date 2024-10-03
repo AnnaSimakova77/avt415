@@ -1,7 +1,7 @@
 h1 {
 	font-size: 47px; 
 	line-height: 50px;
-	color: orangered;
+	color: lightcoral;
 	text-align: center;
 	font-family: 'Kdam Thmor Pro', sans-serif;
 }
@@ -10,7 +10,7 @@ h2 {
 	font-size: 35px; 
 	line-height: 50px;
 	font-family: 'Bebas Neue', sans-serif;
-	color: purple;
+	color: indianred;
 	text-align: center;
 	text-decoration-style: wavy;
 }
@@ -19,17 +19,23 @@ p {
 	font-size: 35px; 
 	line-height: 62px;
 	font-family: 'Antonio', sans-serif;
-	color: mediumpurple;
+	color: darkslateblue;
 }
 
 p2 {
+	font-size: 16px; 
+	line-height: 30px;
+	color: tomato;
+	font-family:"Rubik Mono One", monospace;
+}
+
+p3 {
 	font-size: 17px; 
 	line-height: 30px;
 	color: darkpink;
 	font-family: 'Rubik', sans-serif;
 }
 
-
 body {
-	background-color: floralwhite;
+	background-color: mintcream;
 }
